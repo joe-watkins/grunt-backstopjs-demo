@@ -1,6 +1,6 @@
 # grunt-backstopjs demo
 
-This repo consists of a demo for running grunt-backstopjs. I've elected to include `bower_components` and `node_modules` so you can just fire up the testing easily with no setup.
+This repo consists of a demo for running grunt-backstopjs a Grunt plugin for [BackstopJS](https://github.com/garris/BackstopJS). I've elected to include `bower_components` and `node_modules` so you can just fire up the testing easily with no setup.
 
 Available tasks:
 
